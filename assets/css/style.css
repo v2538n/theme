@@ -240,11 +240,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-header {
-	background: rgba(0,0,0, .3);
+	background: rgba(0,0,0, .5);
 }
 
 .navbar-collapse {
-	background: rgba(0,0,0, .3);
+	background: rgba(0,0,0, .5);
 }
 
 @media (min-width: 768px) {
